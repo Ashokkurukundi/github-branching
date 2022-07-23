@@ -1,1 +1,1 @@
-console.log("feature version 2")
+console.log("conflict 1")
