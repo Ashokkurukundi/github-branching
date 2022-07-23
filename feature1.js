@@ -1,1 +1,1 @@
-console.log("feature version 1")
+console.log("feature version 2")
